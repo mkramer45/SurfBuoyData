@@ -1,0 +1,106 @@
+<table bgcolor="#f0f8fe" border="0" cellspacing="0" cellpadding="2"><caption class="titleDataHeader">Conditions at 44029 as of<br>(6:04 pm EDT)<br>2204 GMT on 09/11/2019:</caption>
+<tbody><tr>
+<td colspan="3" bgcolor="#ffffff">
+<form name="uom_m" action="/station_page.php" method="get">
+<input type="hidden" name="station" size="7" value="44029">
+<label for="uom">Unit of Measure: </label><select name="uom" id="uom" size="1">
+<option value="E" selected="selected"> English</option>
+<option value="M"> Metric</option>
+</select>&nbsp;&nbsp;
+<label for="tz">Time Zone: </label><select name="tz" id="tz" size="1">
+<option value="STN">Station Local Time</option>
+<option value="GMT">Greenwich Mean Time [GMT]</option>
+<option value="BST">British Summer Time [GMT+1]</option>
+<option value="EGT">Eastern Greenland [GMT-1]</option>
+<option value="AT">Azores [GMT-2]</option>
+<option value="WGT">Western Greenland [GMT-3]</option>
+<option value="AST">Atlantic Standard [GMT-4]</option>
+<option value="EST">US/Eastern Standard</option>
+<option value="CST">US/Central Standard</option>
+<option value="MST">US/Mountain Standard</option>
+<option value="PST">US/Pacific Standard</option>
+<option value="AKST">Alaska Standard [GMT-9]</option>
+<option value="HAST">Hawaii-Aleutian Standard [GMT-10]</option>
+<option value="SST">Samoa Standard [GMT-11]</option>
+<option value="IDLW">International Date Line West [GMT-12]</option>
+<option value="WET">Western European [GMT+0]</option>
+<option value="CET">Central European [GMT+1]</option>
+<option value="EET">Eastern European [GMT+2]</option>
+<option value="MSK">Moscow [GMT+3]</option>
+<option value="GMT+4">GMT+4</option>
+<option value="PKT">Pakistan Standard [GMT+5]</option>
+<option value="GMT+6">GMT+6</option>
+<option value="ICT">Indochina Time [GMT+7]</option>
+<option value="CCT">China Coast [GMT+8]</option>
+<option value="JST">Japan Standard [GMT+9]</option>
+<option value="GST">Guam Standard [GMT+10]</option>
+<option value="ZP11">GMT+11</option>
+<option value="IDLE">International Date Line East [GMT+12]</option>
+</select>&nbsp;&nbsp;<input type="submit" value=" Select "></form>
+<p><i>Click on the graph icon in the table below to see a time series plot of the last five days of that observation.</i></p></td>
+</tr>
+<tr>
+<td><a href="/show_plot.php?station=44029&amp;meas=wdir&amp;uom=E&amp;time_diff=-4&amp;time_label=EDT"><img alt="5-day plot - Wind Direction" border="0" src="/images/graph04.gif"></a></td>
+<td>Wind Direction (WDIR):</td>
+<td>SSW ( 200 deg true )</td>
+</tr>
+<tr>
+<td><a href="/show_plot.php?station=44029&amp;meas=wspd&amp;uom=E&amp;time_diff=-4&amp;time_label=EDT"><img alt="5-day plot - Wind Speed" border="0" src="/images/graph04.gif"></a></td>
+<td>Wind Speed (WSPD):</td>
+<td>  7.8 kts</td>
+</tr>
+<tr>
+<td><a href="/show_plot.php?station=44029&amp;meas=wgst&amp;uom=E&amp;time_diff=-4&amp;time_label=EDT"><img alt="5-day plot - Wind Gust" border="0" src="/images/graph04.gif"></a></td>
+<td>Wind Gust (GST):</td>
+<td>  9.7 kts</td>
+</tr>
+<tr>
+<td><a href="/show_plot.php?station=44029&amp;meas=wvht&amp;uom=E&amp;time_diff=-4&amp;time_label=EDT"><img alt="5-day plot - Wave Height" border="0" src="/images/graph04.gif"></a></td>
+<td>Wave Height (WVHT):</td>
+<td>  2.3 ft</td>
+</tr>
+<tr>
+<td><a href="/show_plot.php?station=44029&amp;meas=dmpd&amp;uom=E&amp;time_diff=-4&amp;time_label=EDT"><img alt="5-day plot - Dominant Wave Period" border="0" src="/images/graph04.gif"></a></td>
+<td>Dominant Wave Period (DPD):</td>
+<td>  11 sec</td>
+</tr>
+<tr>
+<td><a href="/show_plot.php?station=44029&amp;meas=pres&amp;uom=E&amp;time_diff=-4&amp;time_label=EDT"><img alt="5-day plot - Atmospheric Pressure" border="0" src="/images/graph04.gif"></a></td>
+<td>Atmospheric Pressure (PRES):</td>
+<td>29.96 in</td>
+</tr>
+<tr>
+<td><a href="/show_plot.php?station=44029&amp;meas=atmp&amp;uom=E&amp;time_diff=-4&amp;time_label=EDT"><img alt="5-day plot - Air Temperature" border="0" src="/images/graph04.gif"></a></td>
+<td>Air Temperature (ATMP):</td>
+<td> 69.6 °F</td>
+</tr>
+<tr>
+<td><a href="/show_plot.php?station=44029&amp;meas=wtmp&amp;uom=E&amp;time_diff=-4&amp;time_label=EDT"><img alt="5-day plot - Water Temperature" border="0" src="/images/graph04.gif"></a></td>
+<td>Water Temperature (WTMP):</td>
+<td> 65.1 °F</td>
+</tr>
+<tr>
+<td><a href="/show_plot.php?station=44029&amp;meas=salt&amp;uom=E&amp;time_diff=-4&amp;time_label=EDT"><img alt="5-day plot - Salinity" border="0" src="/images/graph04.gif"></a></td>
+<td>Salinity (SAL):</td>
+<td> 31.30 psu</td>
+</tr>
+<tr>
+<td><a href="/show_plot.php?station=44029&amp;meas=visi&amp;uom=E&amp;time_diff=-4&amp;time_label=EDT"><img alt="5-day plot - Visibility" border="0" src="/images/graph04.gif"></a></td>
+<td>Visibility (VIS) (0 to 1.6 nmi):</td>
+<td>  1.5 nmi</td>
+</tr>
+<tr>
+<td><a href="/show_plot.php?station=44029&amp;meas=w10m&amp;uom=E&amp;time_diff=-4&amp;time_label=EDT"><img alt="5-day plot - Wind Speed at 10 Meters" border="0" src="/images/graph04.gif"></a></td>
+<td>Wind Speed at 10 meters (WSPD10M):</td>
+<td>  9.7 kts</td>
+</tr>
+<tr>
+<td><a href="/show_plot.php?station=44029&amp;meas=w20m&amp;uom=E&amp;time_diff=-4&amp;time_label=EDT"><img alt="5-day plot - Wind Speed at 10 Meters" border="0" src="/images/graph04.gif"></a></td>
+<td>Wind Speed at 20 meters (WSPD20M):</td>
+<td>  9.7 kts</td>
+</tr>
+<tr>
+<td><a href="/show_plot.php?station=44029&amp;meas=wdpr&amp;uom=E&amp;time_diff=-4&amp;time_label=EDT"><img alt="5-day plot - Wind Speed, Wind Gust and Atmospheric Pressure" border="0" src="/images/graph04.gif"></a></td>
+<td colspan="2"><a href="/show_plot.php?station=44029&amp;meas=wdpr&amp;uom=E&amp;time_diff=-4&amp;time_label=EDT">Combined plot of Wind Speed, Gust, and Air Pressure</a></td>
+</tr>
+</tbody></table>
